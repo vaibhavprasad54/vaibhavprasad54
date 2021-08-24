@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to sing and play guitar and have a Youtube channel since 8 years
 ### Connect with me:
 
-[<img align="left" alt="Vaibhav Prasad | YouTube" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Vaibhav Prasad | YouTube" width="22px"  src="https://img-premium.flaticon.com/png/512/2190/premium/2190466.png?token=exp=1629837652~hmac=79802af012e0db5590c1f9628f034da9" />][youtube]
 [<img align="left" alt="Vaibhav Prasad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vaybhav77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
