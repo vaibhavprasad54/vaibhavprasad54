@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Vaibhav Prasad | YouTube" width="22px"  src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" />][youtube]
 [<img align="left" alt="Vaibhav Prasad | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="vaybhav77 | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
+[<img align="left" alt="vaybhav77 | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />][instagram]
 
 <br />
 
