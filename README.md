@@ -2,10 +2,10 @@
 
 ## An aspiring web developer!!
 
-- 🌱 I’m currently learning and making projects on React.
-- 👯 I’m looking for a full time opportunity in web development.
-- 🥅 2021 Goals: Master JavaScript and make more projects using MERN stack.
-- ⚡ Fun fact: I love to sing and play guitar and have a Youtube channel since 8 years
+- 🌱 Frontend Developer with 1+ year of experience.
+- 👯 Worked with some of the best developers and marine engineers in previous firm.
+- 🥅 Currently learning and transitioning from frontend to full stack development.
+- ⚡ Fun fact: I love to sing and play guitar and have a Youtube channel since 11 years
 ### Connect with me:
 
 [<img align="left" alt="Vaibhav Prasad | YouTube" width="22px"  src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" />][youtube]
