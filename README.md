@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaibhav 👋
 
-## I'm an aspiring web developer!!
+## An aspiring web developer!!
 
 - 🌱 I’m currently learning and making projects on React.
 - 👯 I’m looking for a full time opportunity in web development.
