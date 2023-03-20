@@ -24,3 +24,4 @@
 [<img align="left" alt="Redux" width="26px" src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet-thumbnail.png" />]
 [<img align="left" alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />]
 
+[youtube] = https://www.youtube.com/channel/UCm72dcIwF2frioxHgwFIP_Q
